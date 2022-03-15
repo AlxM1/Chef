@@ -1,1 +1,38 @@
-{"name":"Chef Pool","ticker":"CHEF","description":"Chef is a stake pool with social responsibility and care for a decentralized future in transactions","homepage":"https://alexmorisis.github.io/Chef-Pool","nonce":"1631999491"}
+{
+  "info": {
+        "url_png_icon_64x64": "https://chefpool.org/images/icon.png",
+        "url_png_logo": "https://chefpool.org/images/Chef%20logo.png",
+        "location": "Vancouver, Canada",
+        "social": {
+            "twitter_handle": "@CardanoChefPool",
+            "telegram_handle": "CHEFPool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "CHEF#4117",
+            "github_handle": "AlexMorisis"
+        },
+        "company": {
+            "name": "ChefPool",
+            "addr": "",
+            "city": "",
+            "country": "Vancouver",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Alex, Theodore",
+            "server": "3 Relays, 1 Node Producer at Professional Managed Datacenter in Toronto (1 bare metal backup)",
+            "company": "ChefPool"
+        },
+        "rss": ""
+    },
+
+  "telegram-admin-handle": [
+        "AlexM"
+    ],
+
+  "my-pool-ids": [
+        "682fd73eea4d7370b6f7a781c80b1252817b23f74688cea6257471f3"
+    ]
+}
