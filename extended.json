@@ -5,11 +5,11 @@
         "location": "Vancouver, Canada",
         "social": {
             "twitter_handle": "@CardanoChefPool",
-            "telegram_handle": "CHEFPool",
+            "telegram_handle": "https://t.me/+K8aiPyFpcVthODcx",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
-            "discord_handle": "CHEF#4117",
+            "discord_handle": "https://discord.gg/aWfcN3s96F",
             "github_handle": "AlexMorisis"
         },
         "company": {
@@ -24,11 +24,6 @@
             "me": "Alex, Theodore",
             "server": "3 Relays, 1 Node Producer at Professional Managed Datacenter in Toronto (1 bare metal backup)",
             "company": "ChefPool"
-        },
-  "telegram-admin-handle": [
-        "AlexM"
-    ],
-  "my-pool-ids": [
-        "682fd73eea4d7370b6f7a781c80b1252817b23f74688cea6257471f3"
-    ]
+	}
+}
 }
