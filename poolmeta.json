@@ -1,7 +1,8 @@
 {
-"name": "Chef Pool",
-"ticker": "CHEF",
-"homepage": "https://chefpool.org",
-"description": "Chef is a stake pool with social responsibility and care for a decentralized future in transactions",
-"extended": "https://chefpool.org/extended.json"
+  "name": "Chef Pool",
+  "ticker": "CHEF",
+  "description": "Chef is a stake pool with social responsibility and care for a decentralized future in transactions",
+  "homepage": "https://chefpool.org",
+  "nonce": "1676689268",
+  "extended": "https://tinyurl.com/5xvr2dn6"
 }
