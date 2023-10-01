@@ -2,7 +2,7 @@
   "name": "Chef Pool",
   "ticker": "CHEF",
   "description": "Chef is a stake pool with social responsibility and care for a decentralized future in transactions",
-  "homepage": "https://chefpool.org",
+  "homepage": "https://chefnode.io",
   "nonce": "1676689268",
   "extended": "https://raw.githubusercontent.com/AlxM1/Chef/master/ext.json"
 }
